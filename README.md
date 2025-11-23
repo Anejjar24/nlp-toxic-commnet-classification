@@ -20,6 +20,9 @@ The repository contains:
 -   A **PDF report**
 -   A **presentation PPT** summarizing the work
 
+![Image](https://github.com/user-attachments/assets/e5dae5ff-8230-4d6c-a0bc-0e0aad3d37b4)
+
+
 ------------------------------------------------------------------------
 
 ## 🔬 Models & Approaches
